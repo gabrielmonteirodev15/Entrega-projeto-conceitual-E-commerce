@@ -1,2 +1,2 @@
-# Entrega-projeto-conceitual-E-commerce
-Entrega projeto conceitual E-commerce
+Para o refinamento do projeto conceitual do E-commerce, eu fiz uma entidade para a entrega, onde vai ter um relacionamento com o pedido feito pelo cliente. A entidade entrega tem os atributos, identrega, status, endereço, frete e o id do pedido. Também fiz uma entidade para as formas de pagamento, onde terá um relacionamento com o cliente. A entidade formas de pagamento tem os atributos, idFormas de pagamento, tipo de pagamento,
+numero do cartão, senha. Por fim eu fiz duas entidades para PF e PJ , que depois são especificasções da entidade cliente.
